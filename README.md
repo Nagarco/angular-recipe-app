@@ -33,3 +33,15 @@ The Angular Recipe App includes the following features:
 
 * Routing:
     - **Routing**: Used to implement navigation and multiple views within the application.
+
+* HTTP Client Module and Firebase Integration:
+  - **HTTP Client Module**: Utilized for handling CRUD operations within the app.
+  - **Firebase Integration**: Integrated with Firebase for real-time data storage and retrieval.
+
+* Forms Module:
+  - **Reactive Forms**: Used the Reactive Forms approach for handling forms.
+  - **Template-Driven Forms**: Implemented forms using the template-driven approach.
+
+* Observables for Component Communication:
+  - **Observables**: Utilized Observables to pass data between components. Subscribed to these observables to enable efficient and responsive communication between different parts of the application.
+  - **Operators (map, tap)**: Used operators like map to transform the data and tap to perform side effects such as logging during the observable pipeline
