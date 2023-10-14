@@ -1,0 +1,15 @@
+@media (max-width: 991px) {
+    .dropdown-menu {
+        left: 0 !important;
+    }
+}
+
+@media (min-width: 991px) {
+    .dropdown-menu {
+        right: 0 !important;
+    }
+}
+
+.dropdown-item{
+    cursor: pointer;
+}
