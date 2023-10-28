@@ -1,8 +1,9 @@
 # Angular RecipeApp
 
 The app is developed using Angular framework and incorporates various features and concepts of Angular development.
-It has been made with the help of the Udemy Course - Angular the complete guide - for Maximilian Schwarzmüller
-You can test the app from the link below:
+It has been made with the help of the Udemy Course - Angular the complete guide - for Maximilian Schwarzmüller.
+
+### You can test the app from the link below:
 https://codesandbox.io/p/sandbox/angular-recipe-app-c5psjz
 
 ## Features
