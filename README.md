@@ -8,7 +8,7 @@ https://codesandbox.io/p/sandbox/angular-recipe-app-c5psjz
 
 ## Features
 
-The Angular Recipe App includes the following features:
+The Angular Recipe App covers the following topics:
  * Structural Directives:
    - **ngIf**: Used to conditionally render elements based on a condition.
    - **ngFor**: Used to iterate over a collection and render elements.
